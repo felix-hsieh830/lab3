@@ -16,7 +16,7 @@ int main(void)
 
     switch (choice)
     {
-    case '0':
+    case 'O':
         sum=Odd(n);
         break;
     case 'E':
